@@ -1,0 +1,25 @@
+.footer{
+    background-color: #2C343E;
+    & .container {
+        display:flex;
+    }
+}
+.footer__link{
+    color: #83888F;
+    text-decoration: none;
+    padding-left: 30px;
+    font-family: "Barlow"
+}
+.header__list {
+    display: flex;
+}
+.header__item {
+    margin-left: 28px;
+}
+.footer__item {
+    margin-left: 465px;
+}
+.footer__link:hover{
+    color: #FEFCF7;
+    text-decoration: line-through;
+}

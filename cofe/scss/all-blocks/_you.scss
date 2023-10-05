@@ -1,0 +1,39 @@
+.you{
+    margin-top: 100px;
+}
+
+.you__list{
+    display: flex;
+    background-color: #333D4B;
+    height: 474px;
+    list-style: none;
+}
+
+.you__text{
+    width: 540px;
+    color: #FEFCF7;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.you__item:nth-child(2){
+    margin-left: 230px;
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 700px;
+}
+
+.you__item:nth-child(1){
+    padding-top: 60px;
+    padding-left: 40px;
+}
+
+.you__heading2{
+    color: #FEFCF7;
+    font-family: "Fraunces";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+}

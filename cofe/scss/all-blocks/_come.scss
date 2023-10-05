@@ -1,0 +1,43 @@
+
+.come__list:nth-child(2){
+    display: flex;
+    list-style: none;
+}
+
+.come__item{
+    padding-left: 95px;
+}
+
+.come__heading3{
+    color: #333D4B;
+    font-family: "Fraunces 9pt";
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.come__text{
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.come__heading2{
+    margin-left: 95px;
+    margin-bottom: 72px;
+    color: #83888F;
+    font-family: "Fraunces 9pt";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+
+.come__list{
+    list-style: none;
+}
+
+.come{
+    margin-top: 100px;
+    margin-left: 240px;
+}
